@@ -1,4 +1,3 @@
- #Autor/AnaliceLeite #Versão/1 #Data/2024-10-30
 
 ## Descrição do Projeto 
 
@@ -141,7 +140,7 @@ A aplicação foi construída com um conjunto de ferramentas e bibliotecas moder
 Abra seu terminal e execute o seguinte comando para clonar o repositório:
 
 ```cmd
-git clone https://github.com/analiceleite/twitter_clone.git
+git clone https://github.com/leonardochrist/X_cloning.git
 ```
 ### 2. Navegar para o Diretório do Projeto
 
@@ -249,7 +248,7 @@ npm install
 No arquivo base_api, localizado no caminho: `src/api/base_api` altere o endereço atual:
 
 ```py
-export const API_BASE_URL = 'https://analice.pythonanywhere.com/';
+export const API_BASE_URL = 'https://leonardochrist.pythonanywhere.com/';
 ```
 
 Para localhost rodando em Django (segundo o seu backend):
